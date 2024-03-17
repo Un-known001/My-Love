@@ -4,8 +4,6 @@
 </p>
 <p align="center">
 
-<img alt="Version" src="https://img.shields.io/badge/Myl💙ve-01-blue?style=for-the-badge&color=blue">
 
-<img title="Link" src="https://img.shields.io/badge/Link-green.svg">
 
-My 💙 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome;+I'm+Roshan+Sharma+|^_^|;+I'm+Hacker+|×_×|;+I'm+Software+Developer+|•_•|" />
